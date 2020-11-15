@@ -28,6 +28,7 @@ RUN set -ex \
 	&& apt-get update && apt-get install -y --no-install-recommends \
 		dpkg-dev \
 		gcc \
+		git \
 		libbluetooth-dev \
 		libbz2-dev \
 		libc6-dev \
