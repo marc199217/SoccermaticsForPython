@@ -1,0 +1,14 @@
+autopep8
+flake8
+jupyterlab
+nltk
+numpy
+matplotlib
+pandas
+pycodestyle
+pydocstyle
+psycopg2
+scipy
+scikit-learn
+scikit-image
+tensorflow
